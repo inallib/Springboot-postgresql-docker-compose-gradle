@@ -3,7 +3,7 @@
  ''Run docker-compose build''
  ''Run docker-compose up''
 
-# Some more related commands you may plauy around
+# Some more related commands you may play around
 
 'docker container list -a'
 
