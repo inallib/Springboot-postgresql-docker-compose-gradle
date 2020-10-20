@@ -1,4 +1,4 @@
 # Running the app
 
-Run docker-compose build
-Run docker-compose up
+## ''Run docker-compose build''
+## ''Run docker-compose up''
